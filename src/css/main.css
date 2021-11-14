@@ -65,9 +65,14 @@ HEADER
     text-align: center;
     top: 30%;
 }
-.banner .banner-content h1, 
+.banner .banner-content h1 {
+    color:#FFFFFF;
+    background-color: black;
+    margin-top: -125px;
+}
 .banner .banner-content h2 {
     color: #FFFFFF;
+    background-color: black;
 }
 
 .about .about-single-element .icon {
