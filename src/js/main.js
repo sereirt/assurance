@@ -1,4 +1,3 @@
-<script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://iclickcdn.com/tag.min.js',4660590,document.body||document.documentElement)</script>
 $(document).ready(function() {
     //OPEN MODAL
     $('#open_modal').click(function(){
