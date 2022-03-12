@@ -47,12 +47,17 @@ HEADER
 
 .header .header-menu a {
     margin-right: 15px;
-    color: #FFFFFF;
+    color: white;
 }
 
 .header .header-menu a:hover {
     color:#3498db
 }
+
+
+
+
+/* Pour la bannière*/
 
 .banner {
     margin-top: -20px;
@@ -60,6 +65,7 @@ HEADER
 
 .banner .banner-image {
     position: relative;
+    width: ;
 }
 .banner .banner-content {
     position: absolute;
@@ -69,29 +75,41 @@ HEADER
 }
 .banner .banner-content h1 {
     color:#FFFFFF;
-    background-color: black;
-    margin-top: -125px;
+    background-color: rgba(24, 21, 21, 0.24);
+    margin-top: -25px;
+    opacity: 90%;
+    font-family: 'Montserrat', sans-serif;
 }
 .banner .banner-content h2 {
     color: #FFFFFF;
-    background-color: black;
+    background-color: rgba(24, 21, 21, 0.24);
+    opacity: 90%;
+    font-style: italic;
 }
 
 
+/*Banniere*/
 
 
+
+/* Icones*/
 .about .about-single-element .icon {
     font-size:30px;
     text-align: center;
 }
 
 .about .about-single-element {
-    text-align: center;
+    text-align: center; 
 }
 
 .about .about-single-element p {
 text-align: left;
 margin-top: 20px;
+}
+
+
+.about .about-subtitle-heading-site {
+    font-size: 200px;
 }
 
 
@@ -127,3 +145,4 @@ permet de modifier la taille du bouton selon la taillle de l'écran
     }
 }
 */
+

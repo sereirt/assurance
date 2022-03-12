@@ -1,4 +1,6 @@
 <?php
+
+///// CODE PHP TROUVE SUR INTERNET POUR LE FORMULAIRE DU FOOTER  /////
 if($_POST){
   $firstname= $_POST['firstname'];
   $email = $_POST['email'];
