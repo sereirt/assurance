@@ -139,13 +139,4 @@ MODAL
     padding-top: 120px;
 }
 
-/*responsive exemple
-permet de modifier la taille du bouton selon la taillle de l'écran
-
-@media screen and (max-width: 600px) {  
-    #open_modal {
-        display: none;
-    }
-}
-*/
 
